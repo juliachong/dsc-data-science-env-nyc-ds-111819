@@ -375,3 +375,7 @@ If for any reason you don't see the learn-env option in the drop-down list of ke
 ## Summary
 
 Congratulations! If you've gotten this far and everything has worked, you have a great baseline setup for working as a professional data scientist!
+
+list = [1, 2, 3, 4]
+print(list)
+
